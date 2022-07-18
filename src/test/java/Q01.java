@@ -7,8 +7,6 @@ public class Q01 {
     Create a Phyton function which will filter list object by containing string '123'
     and return new list object containing filtered elements
 
-    '123' dizesini içeren liste nesnesini filtreleyecek
-    ve filtrelenmiş öğeler içeren yeni liste nesnesini döndürecek bir Python işlevi oluşturun
      */
 
     public static void main(String[] args) {
@@ -28,7 +26,7 @@ public class Q01 {
             }
 
         }
-        
+
         return myList2;
     }
 }
